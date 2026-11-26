@@ -11,7 +11,7 @@
 
 ## Checklist
 
-- [ ] Cumple los criterios de aceptación de la tarjeta
+- [ ] Cumple los criterios de aceptacion de la tarjeta
 - [ ] `npm run build` y `npm run lint` pasan
 - [ ] Sin `console.log` de prueba
 
